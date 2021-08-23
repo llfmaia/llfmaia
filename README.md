@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, World!! 👋
+My name is Leandro, I'm 14 years old and I'm from Brazil! I started in the programming world in 2020, I'm very interested in software engineering.
 
-<!--
-**LeandroLimaFM/LeandroLimaFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me🤗:
 
-Here are some ideas to get you started:
+ - 👨🏻‍💻 Programming student
+ - 🔢 Back-end programmer
+ -  🎬 I like: video games, watching movies and series
+ - ⭐Technologies I study: C#, Java, MySql, .NET
+ ## Skills 👾:
+<div>
+    <p aling="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="max-width:100%;">
+    </p>  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics 📊:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLimaFM&layout=compact)
+
+
+
+
+ 
+
