@@ -5,8 +5,8 @@ My name is Leandro, I'm 14 years old and I'm from Brazil! I started in the progr
 
  - 👨🏻‍💻 Programming student
  - 🔢 Back-end programmer
- -  🎬 I like: video games, watching movies and series
- - ⭐Technologies I study: C#, Java, MySql, .NET
+ - 🎬 I like: video games, watching movies and series
+ - ⭐Technologies I'm studying: C#, Java, MySql, .NET
  ## Skills 👾:
 <div>
     <p aling="center">
