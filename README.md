@@ -1,12 +1,11 @@
 # Hello, World!! 👋
-My name is Leandro, I'm 15 years old and I'm from Brazil! I started in the programming world in 2020, I'm very interested in software engineering.
+My name is Leandro, I'm 17 years old and I'm from Brazil! I started in the programming world in 2020, I'm very interested in software engineering.
 
 ## About me🤗:
 
  - 👨🏻‍💻 Programming student
  - 🔢 Back-end programmer
  - 🎬 I like: video games, watching movies and series
- - ⭐Technologies I'm studying: C#, Java, MySql, .NET
  ## Skills 👾:
 <div>
     <p aling="center">
