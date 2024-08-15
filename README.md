@@ -18,7 +18,7 @@ My name is Leandro, I'm 17 years old and I'm from Brazil! I started in the progr
 </div>
 
 ## Statistics 📊:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLimaFM&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llfmaia&layout=compact)
 
 
 
